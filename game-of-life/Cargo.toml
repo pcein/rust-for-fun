@@ -1,0 +1,10 @@
+[package]
+name = "life"
+version = "0.1.0"
+authors = ["Pramode <mail@pramode.in>"]
+
+[dependencies]
+
+sdl2 = "0.23.0"
+rand = "0.3.14"
+
