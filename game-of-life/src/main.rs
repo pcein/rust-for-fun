@@ -210,6 +210,6 @@ fn main() {
         }
         display_frame(&mut r, &v);
         v = life_next(v);
-        thread::sleep(time::Duration::from_millis(50));
+        thread::sleep(time::Duration::from_millis(60));
     }
 }
